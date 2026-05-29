@@ -56,7 +56,7 @@ I enjoy turning raw data into meaningful insights that help organizations make s
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_LINK)
 
-📧 Email: [your-email@example.com](mailto:imaanahmad95@gmail.com@example.com)
+📧 Email: imaanahmad95@gmail.com(mailto:imaanahmad95@gmail.com@example.com)
 
 ---
 

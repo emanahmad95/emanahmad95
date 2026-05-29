@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Eman Ahmed
 
-🎓 Business Data Analytics student at COMSATS University
+🎓 Business Data Analytics Student at COMSATS University
 📊 Passionate about Data Analytics, Business Intelligence, Marketing Analytics & Operational Analysis
 
 ---
 
 ## 🚀 About Me
 
-I enjoy turning raw data into meaningful insights that help organizations make smarter decisions and improve performance.
+I enjoy transforming raw data into meaningful insights that support smarter business decisions and improve organizational performance.
 
-💡 Interested in:
+💡 Areas of Interest:
 
 * Data Analytics
 * Business Intelligence
@@ -17,11 +17,11 @@ I enjoy turning raw data into meaningful insights that help organizations make s
 * Business Operations
 * Strategy & Reporting
 
-📌 Currently looking for:
+📌 Currently:
 
-* Remote internships
-* Collaborative analytics projects
-* Business and marketing analytics opportunities
+* Seeking remote internships
+* Open to collaborative analytics projects
+* Exploring opportunities in business, marketing, and operational analytics
 
 ---
 
@@ -36,13 +36,19 @@ I enjoy turning raw data into meaningful insights that help organizations make s
 
 ## 📈 GitHub Stats
 
-![Eman's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanahmad95\&show_icons=true\&theme=tokyonight)
+![Eman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanahmad95\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanahmad95\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanahmad95\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=emanahmad95\&theme=tokyonight)
 
 ---
 
@@ -52,12 +58,14 @@ I enjoy turning raw data into meaningful insights that help organizations make s
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/eman-ahmad-34000631b/)
 
-📧 Email: imaanahmad95@gmail.com
+📧 Email: [imaanahmad95@gmail.com](mailto:imaanahmad95@gmail.com)
 
 ---
 
-⭐ “Data is most useful when it tells a story.”
+## ✨ Fun Line
+
+⭐ *“Data is most useful when it tells a story.”*

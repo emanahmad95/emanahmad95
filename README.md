@@ -56,24 +56,6 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 </p>
 
 
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emanahmad95\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=emanahmad95\&theme=tokyonight)
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=emanahmad95\&color=blue)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/eman-ahmad-34000631b/)

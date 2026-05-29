@@ -38,12 +38,6 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 # 💫 GitHub Profile Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emanahmad95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanahmad95&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&hide=jupyter%20notebook" />
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=emanahmad95&theme=tokyonight&hide_border=true" />
 </p>
 

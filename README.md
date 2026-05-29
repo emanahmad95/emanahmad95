@@ -61,6 +61,5 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 
 ---
 
-## ✨ Fun Line
 
 ⭐ *“Data is most useful when it tells a story.”*

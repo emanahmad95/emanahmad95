@@ -38,19 +38,7 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 ---
 
 
-# 💫 GitHub Profile Stats
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=emanahmad95&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emanahmad95&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emanahmad95&theme=tokyonight" />
-</p>
 
 
 ## 🌐 Connect With Me

@@ -3,6 +3,9 @@
 🎓 Business Data Analytics Student at COMSATS University
 📊 Passionate about Data Analytics, Business Intelligence, Marketing Analytics & Operational Analysis
 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Abdul-Rafay2005" alt="Abdul-Rafay2005" /> 
+</a>
+
 ---
 
 ## 🚀 About Me

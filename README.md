@@ -1,10 +1,11 @@
 # Hi there 👋 I'm Eman Ahmad
 
-🎓 Business Data Analytics Student at COMSATS University
- Passionate about Data Analytics, Business Intelligence, Marketing Analytics & Operational Analysis
+🎓 **Business Data Analytics Student at COMSATS University**
+📊 Passionate about **Data Analytics, Business Intelligence, Marketing Analytics & Operational Analysis**
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=emanahmad95" alt="emanahmad95" /> 
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emanahmad95&label=Profile%20Views&color=0e75b6&style=flat" alt="emanahmad95" />
+</p>
 
 ---
 
@@ -12,7 +13,7 @@
 
 I enjoy transforming raw data into meaningful insights that support smarter business decisions and improve organizational performance.
 
-💡 Areas of Interest:
+💡 **Areas of Interest**
 
 * Data Analytics
 * Business Intelligence
@@ -20,14 +21,21 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 * Business Operations
 * Strategy & Reporting
 
-📌 Currently:
+📌 **Currently**
 
 * Seeking remote internships
 * Open to collaborative analytics projects
 * Exploring opportunities in business, marketing, and operational analytics
 
 ---
-## My Portfolio : live - https://emanportfolio-ivory.vercel.app/
+
+## 🌐 Portfolio
+
+🔗 **Live Portfolio:**
+https://emanportfolio-ivory.vercel.app/
+
+---
+
 ## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -36,7 +44,14 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=Tableau\&logoColor=white)
 
 ---
+
 # 💫 GitHub Profile Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=emanahmad95&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanahmad95&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+</p>
 
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=emanahmad95&theme=tokyonight&hide_border=true" />
@@ -50,8 +65,7 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emanahmad95&theme=tokyonight" />
 </p>
 
-
-
+---
 
 ## 🌐 Connect With Me
 
@@ -61,5 +75,6 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 
 ---
 
+## ✨ Quote
 
-⭐ *“Data is most useful when it tells a story.”*
+⭐ *"Data is most useful when it tells a story."*

@@ -27,7 +27,7 @@ I enjoy transforming raw data into meaningful insights that support smarter busi
 * Exploring opportunities in business, marketing, and operational analytics
 
 ---
-
+## My Portfolio : live - https://emanportfolio-ivory.vercel.app/
 ## 🛠️ Skills & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)

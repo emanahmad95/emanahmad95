@@ -1,9 +1,9 @@
-# Hi there 👋 I'm Eman Ahmed
+# Hi there 👋 I'm Eman Ahmad
 
 🎓 Business Data Analytics Student at COMSATS University
-📊 Passionate about Data Analytics, Business Intelligence, Marketing Analytics & Operational Analysis
+ Passionate about Data Analytics, Business Intelligence, Marketing Analytics & Operational Analysis
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=emanahmed95" alt="emanahmed95" /> 
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=emanahmad95" alt="emanahmad95" /> 
 </a>
 
 ---
